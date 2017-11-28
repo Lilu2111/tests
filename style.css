@@ -1,0 +1,72 @@
+#a1 {
+	color:#034705;
+	font-size:85px;
+  }
+div { color:#0600B8;
+
+}
+.a2 {
+	color:#651C8A;
+	font-size:35px;
+	font-size:35;
+    margin:200px;
+}
+.a3 {
+	color:#6E2C8F;
+   font-size:30px;
+   margin:550px;
+}
+.a4 {
+	color:#843DA8;
+	font-size:25px;
+    margin:900px;
+}
+.a5{
+    color:#AF58DB;
+	font-size:20px;
+	margin:1250px;
+}
+.messager {
+	color:#747474;
+	background-color:#E4E4E4;
+	border:10px solid black;
+	font-size: 20px;
+	padding: 10px;
+	padding-left: 600px;
+}
+.messager:hover {
+border: 20px solid black;
+}
+#test{
+	background-color:gold;
+	color: black;
+	padding:15px;
+	margin: 100px;
+	border:7px solid black; 
+	border-radius: 30px;
+	opacity:3px;
+	box-shadow: 10px 10px 17px red;
+
+}
+body{
+	background-image: url(images/2.jpg);
+}
+#test1{ 
+	background-color:white;
+	color: black;
+	padding:15px;
+	margin: 100px;
+	border:7px solid black; 
+	border-radius: 30px;
+	opacity:3px;
+	box-shadow: 10px 10px 17px black;
+	width: 200px;
+   transform: rotate(90deg);
+}
+#test1{
+	transform:scale(1);
+	transition: 2s all;
+}
+ #test1:hover {
+ 	transform: rotate(180deg) scale(0.3);
+ }
