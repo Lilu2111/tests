@@ -70,3 +70,23 @@ body{
  #test1:hover {
  	transform: rotate(180deg) scale(0.3);
  }
+ #test3{
+ 	background-color:red;
+ 	color:black;
+ 	font-size:15px;
+ 	padding:20px;
+ 	margin: 200px;
+ 	border: 10px solid white;
+ 	border-radius: 30px;
+ 	box-shadow: 10px 10px 7px red;
+ width:250px;
+
+ }
+ #test3:hover {
+ 	transform: rotate(240deg) scale(0.5);
+ 	background:gold;
+ 	 }
+ #test3{	
+ 	transform: scale(0.9);
+ 	transition: 1s all;
+ }
